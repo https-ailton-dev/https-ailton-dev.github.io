@@ -1131,16 +1131,16 @@ body > footer .copyrights {
 
 
 /* =======================================
-7.3. Services subpage
+7.3. certificados subpage
 ======================================= */
-/* Services */
-.service-block {
+/* certificados */
+.certificados-block {
   text-align: center;
   padding: 0;
   margin-bottom: 30px;
 }
 
-.service-image {
+.certificados-image {
   width: 120px;
   height: 120px;
   background-color: #fafafa;
@@ -1154,7 +1154,7 @@ body > footer .copyrights {
   transition: all 0.3s ease-in-out;
 }
 
-.service-image:hover {
+.certificados-image:hover {
   -webkit-transform: translateY(-7px);
   -ms-transform: translateY(-7px);
   -o-transform: translateY(-7px);
@@ -1165,18 +1165,18 @@ body > footer .copyrights {
   box-shadow: 0 7px 12px rgba(0, 0, 0, 0.15);
 }
 
-.service-block img {
+.certificados-block img {
   max-width: 100px;
   height: 64px;
   margin: 28px 0;
 }
 
-.service-block h4 {
+.certificados-block h4 {
   font-size: 17px;
   padding: 20px 0 0;
 }
 
-.service-icon {
+.certificados-icon {
   font-size: 48px;
   line-height: 80px;
   color: #fff;
@@ -1192,7 +1192,7 @@ body > footer .copyrights {
   transition: all 0.3s ease-in-out;
 }
 
-.service-icon:hover {
+.certificados-icon:hover {
   -webkit-transform: translateY(-7px);
   -ms-transform: translateY(-7px);
   -o-transform: translateY(-7px);
@@ -1202,10 +1202,10 @@ body > footer .copyrights {
   -o-box-shadow: 0 7px 12px rgba(0, 0, 0, 0.15);
   box-shadow: 0 7px 12px rgba(0, 0, 0, 0.15);
 }
-/* /Services */
+/* /certificados */
 
-/* Clients */
-.client-block {
+/* educational */
+.educational-block {
   text-align: center;
   padding: 5px 0;
   opacity: 0.4;
@@ -1216,14 +1216,14 @@ body > footer .copyrights {
   transition: all 0.2s ease-in-out;
 }
 
-.client-block:hover {
+.educational-block:hover {
   opacity: 1;
 }
 
-.client-block img {
+.educational-block img {
   max-width: 80px;
 }
-/* /Clients */
+/* /educational */
 
 /* Fun Facts */
 .fun-fact-block {
