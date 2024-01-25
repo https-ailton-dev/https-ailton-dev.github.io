@@ -1131,16 +1131,16 @@ body > footer .copyrights {
 
 
 /* =======================================
-7.3. certificados subpage
+7.3. estudo subpage
 ======================================= */
-/* certificados */
-.certificados-block {
+/* estudo */
+.estudo-block {
   text-align: center;
   padding: 0;
   margin-bottom: 30px;
 }
 
-.certificados-image {
+.estudo-image {
   width: 120px;
   height: 120px;
   background-color: #fafafa;
@@ -1154,7 +1154,7 @@ body > footer .copyrights {
   transition: all 0.3s ease-in-out;
 }
 
-.certificados-image:hover {
+.estudo-image:hover {
   -webkit-transform: translateY(-7px);
   -ms-transform: translateY(-7px);
   -o-transform: translateY(-7px);
@@ -1165,18 +1165,18 @@ body > footer .copyrights {
   box-shadow: 0 7px 12px rgba(0, 0, 0, 0.15);
 }
 
-.certificados-block img {
+.estudo-block img {
   max-width: 100px;
   height: 64px;
   margin: 28px 0;
 }
 
-.certificados-block h4 {
+.estudo-block h4 {
   font-size: 17px;
   padding: 20px 0 0;
 }
 
-.certificados-icon {
+.estudo-icon {
   font-size: 48px;
   line-height: 80px;
   color: #fff;
@@ -1192,7 +1192,7 @@ body > footer .copyrights {
   transition: all 0.3s ease-in-out;
 }
 
-.certificados-icon:hover {
+.estudo-icon:hover {
   -webkit-transform: translateY(-7px);
   -ms-transform: translateY(-7px);
   -o-transform: translateY(-7px);
@@ -1202,9 +1202,9 @@ body > footer .copyrights {
   -o-box-shadow: 0 7px 12px rgba(0, 0, 0, 0.15);
   box-shadow: 0 7px 12px rgba(0, 0, 0, 0.15);
 }
-/* /certificados */
+/* /estudo */
 
-/* educational */
+/* estudo */
 .educational-block {
   text-align: center;
   padding: 5px 0;
